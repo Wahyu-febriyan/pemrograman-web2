@@ -1,4 +1,4 @@
-<?
+<?php
 $ball = 'purple';
 	if ($ball == 'red') { 
 	$redbox = $ball; } 
